@@ -56,7 +56,9 @@
 
         .folder-list {
             width: 100%;
-            display: -webkit-box;
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 2rem;
 
             .folder-item {
                 display: block;
