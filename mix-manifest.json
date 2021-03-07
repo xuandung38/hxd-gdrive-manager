@@ -1,0 +1,6 @@
+{
+    "public/js/client.min.js": "public/js/client.min.js",
+    "public/js/file-manager.min.js": "public/js/file-manager.min.js",
+    "public/css/file-manager.min.css": "public/css/file-manager.min.css",
+    "public/css/element-ui.min.css": "public/css/element-ui.min.css"
+}
