@@ -13,3 +13,6 @@ npm-debug.log
 yarn-error.log
 .idea
 /tests
+/public/css
+/public/js
+/public/mix-manifest.json
